@@ -24,7 +24,7 @@
 git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 
 # 京东签到
-#git clone https://github.com/noiver/luci-app-jd-dailybonus package/luci-app-jd-dailybonus
+git clone https://github.com/noiver/luci-app-jd-dailybonus package/luci-app-jd-dailybonus
 
 # 商店
 git clone https://github.com/linkease/istore-ui package/istore-ui
