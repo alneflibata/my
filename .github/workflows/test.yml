@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 ###############手动修改##############
-name: padavanonly23.05
+name: test
 
 on:
   repository_dispatch:
